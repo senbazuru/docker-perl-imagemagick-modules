@@ -1,4 +1,4 @@
-FROM senbazuru/perl
+FROM senbazuru/docker-perl
 MAINTAINER senbazuru
 
 # expat-devel: for XML::Simple
